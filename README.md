@@ -2,6 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+	<title>Quiz</title>
 	<link rel="stylesheet" type="text/css" href="quiz.css">
 </head>
 <body>
