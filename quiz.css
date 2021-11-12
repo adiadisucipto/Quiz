@@ -1,0 +1,23 @@
+ul li span{
+	font-size: 13px;
+}
+
+select{
+	border-radius: 3px;
+}
+
+form .kg{
+	margin-top: 18px;
+	margin-bottom: 18px;
+	height: 15px;
+	width: 200px; 
+}
+
+form .diskon{
+	height: 15px;
+	width: 200px; 
+}
+
+form .button{
+	margin-top: 18px;
+}
